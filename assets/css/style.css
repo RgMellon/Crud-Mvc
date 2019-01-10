@@ -1,0 +1,19 @@
+.separator {
+    height: 4rem;
+}
+
+.btn-add {
+    background: blue !important;
+}
+
+nav {
+    background: blue !important;
+}
+
+.btn-danger {
+    background: red !important;
+}
+
+.btn-edit {
+    
+}

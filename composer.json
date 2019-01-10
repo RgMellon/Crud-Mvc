@@ -1,0 +1,15 @@
+{
+    "name": "renan/mvc-2",
+    "authors": [
+        {
+            "name": "Renan Melo",
+            "email": "renan_gian@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "APP\\" : "APP"
+        }
+    }
+}
